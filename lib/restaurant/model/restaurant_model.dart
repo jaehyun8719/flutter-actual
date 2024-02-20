@@ -1,6 +1,6 @@
 import 'package:flutter_actual/common/const/data.dart';
 
-enum RestaurantPriceRange{
+enum RestaurantPriceRange {
   expensive, medium, cheap
 }
 
